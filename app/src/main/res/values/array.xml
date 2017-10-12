@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>지역을 선택해 주세요.</item>
+        <item>서울</item>
+        <item>경기</item>
+        <item>대전</item>
+        <item>강원</item>
+        <item>대구</item>
+        <item>전주</item>
+        <item>부산</item>
+    </string-array>
+</resources>
